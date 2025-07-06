@@ -26,6 +26,6 @@ If you find this repository useful, please cite our work:
 🔹 APA  
 Xu, Y., Chen, C., Deng, W., Dai, L., & Yang, T. (2025). Spatial eco-socio-economic trade-offs inform differentiated management strategies in mega-urban agglomerations. npj Urban Sustainability, 5(1), 43.
 
-📬 Contact
+📬 Contact  
 For questions, feedback, or collaborations, please contact:  
 Yuhan Xu: [yxu899@gatech.edu]
